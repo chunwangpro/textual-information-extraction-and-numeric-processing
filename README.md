@@ -1,5 +1,10 @@
 # From data to wealth: textual information extraction and numeric processing
 
+Sunshine Company wants to get advice on the sale strategies on their three
+products based on data from Amazon.com, especially the time-based patterns.
+In doing so, we did the following work and provided substantial and detailed
+conclusions.
+
 This is our solution to MCM-2020 Problem C:
 
 - **Problem description:**  2020_MCM_Problem_C.pdf
